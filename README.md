@@ -41,6 +41,6 @@ Thank you to all the people who already contributed to Mouse!
 
 ## LICENSE
 
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://github.com/isArtJay/Mouse/blob/master/LICENSE)
 
-Copyright (c) 2020-present, YJ Bian
+Copyright (c) 2020-present, Yujie

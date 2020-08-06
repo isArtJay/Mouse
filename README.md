@@ -16,7 +16,7 @@ English | [简体中文](zh-cn/README.zh-CN.md)
     <a href="https://github.com/isArtJay/Mouse/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/isArtJay/Mouse?style=flat-square"></a>
 </p>
 
-## Mouse.css
+<h2 align="center">Mouse.css</h2>
 
 Make your fingertips more beautiful.
 

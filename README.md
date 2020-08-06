@@ -17,23 +17,9 @@ Make your fingertips more beautiful.
 
 ## Contribution
 
-We recognize all types of contributions, this project follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct. You can [post a comment](https://github.com/HoverMagic/HoverMagic/issues/1) with the text: `@all-contributors please add @YOUR-GITHUB-USERNAME for EmojiName` and our nice bot will add you.
+We recognize all types of contributions, this project follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct. You can [post a comment](https://github.com/isArtJay/Mouse/issues/1) with the text: `@all-contributors please add @YOUR-GITHUB-USERNAME for EmojiName` and our bot will add you.
 
 Thank you to all the people who already contributed to Mouse!
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://www.lien.run"><img src="https://avatars3.githubusercontent.com/u/48620527?v=4" width="100px;" alt=""/><br /><sub><b>YJ Bian</b></sub></a><br /><a href="https://github.com/HoverMagic/HoverMagic/commits?author=isArtJay" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Stargazers over time
 

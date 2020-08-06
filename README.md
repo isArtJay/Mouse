@@ -1,18 +1,16 @@
 English | [简体中文](zh-cn/README.zh-CN.md)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 <p align="center">
 <img src="images/HoverMagic.svg" />
 </p>
-
 <p align="center">
   <a href="https://github.com/HoverMagic/HoverMagic/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/HoverMagic/HoverMagic"></a>
     <a href="https://github.com/HoverMagic/HoverMagic/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/HoverMagic/HoverMagic"></a>
     <a href="https://github.com/HoverMagic/HoverMagic/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/HoverMagic/HoverMagic"></a>
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/LICENSE-MIT-brightgreen.svg"></a>
 </p>
+
 
 ## Mouse.css
 
@@ -24,23 +22,10 @@ We recognize all types of contributions, this project follows the [Contributor C
 
 Thank you to all the people who already contributed to Mouse!
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/isArtJay/Mouse.svg)](https://github.com/isArtJay/Mouse/stargazers)
-
-## LICENSE
-
-[MIT](https://github.com/isArtJay/Mouse/blob/master/LICENSE)
-
-Copyright (c) 2020-present, Yujie
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
 <table>
   <tr>
     <td align="center"><a href="http://lien.run"><img src="https://avatars3.githubusercontent.com/u/48620527?v=4" width="100px;" alt=""/><br /><sub><b>YJ Bian</b></sub></a><br /><a href="https://github.com/isArtJay/Mouse/commits?author=isArtJay" title="Code">💻</a></td>
@@ -51,4 +36,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/isArtJay/Mouse.svg)](https://github.com/isArtJay/Mouse/stargazers)
+
+## LICENSE
+
+[MIT](https://github.com/isArtJay/Mouse/blob/master/LICENSE)
+
+Copyright (c) 2020-present, Yujie

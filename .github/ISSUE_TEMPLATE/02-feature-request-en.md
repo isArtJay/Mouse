@@ -1,6 +1,6 @@
 ---
 name: "[English] Feature request"
-about: Suggest an idea for HoverMagic
+about: Suggest an idea for Mouse
 title: "⭐️[Feature Request] "
 labels: ''
 assignees: ''

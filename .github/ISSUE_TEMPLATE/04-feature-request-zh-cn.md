@@ -1,6 +1,6 @@
 ---
 name: "[简体中文] 功能请求"
-about: 你希望能够在 HoverMagic 中增加的新功能
+about: 你希望能够在 Mouse 中增加的新功能
 title: "⭐️[Feature Request] "
 labels: ''
 assignees: ''

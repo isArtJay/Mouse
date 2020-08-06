@@ -1,4 +1,4 @@
-[English](README.md) | 简体中文
+[English](https://github.com/isArtJay/Mouse/blob/master/README.md) | 简体中文
 
 <p align="center">
 <img src="images/HoverMagic.svg" />

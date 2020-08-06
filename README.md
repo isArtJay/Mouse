@@ -20,6 +20,10 @@
 
 Make your fingertips more beautiful.
 
+## Sponsors
+
+
+
 ## Contribution
 
 We recognize all types of contributions, this project follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct. If you have contributed to the project in some way and aren't listed, you can also [post a comment](https://github.com/isArtJay/Mouse/issues/1) with the text: `@all-contributors please add @YOUR-GITHUB-USERNAME for EmojiName` and our nice bot will add you.

@@ -9,7 +9,7 @@ English | [简体中文](zh-cn/README.zh-CN.md)
     <a href="https://github.com/HoverMagic/HoverMagic/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/HoverMagic/HoverMagic"></a>
     <a href="https://github.com/HoverMagic/HoverMagic/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/HoverMagic/HoverMagic"></a>
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/LICENSE-MIT-brightgreen.svg"></a>
-    <a href="https://github.com/isArtJay/Mouse/graphs/contributors"><img width="30px" alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/isArtJay/Mouse/master?style=for-the-badge"></a>
+    <a href="https://github.com/isArtJay/Mouse/graphs/contributors"><img width="80px" alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/isArtJay/Mouse/master?style=for-the-badge"></a>
 </p>
 
 

@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "isArtJay",
+      "name": "YJ Bian",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48620527?v=4",
+      "profile": "http://lien.run",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Mouse",
+  "projectOwner": "isArtJay",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

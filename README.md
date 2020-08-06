@@ -17,7 +17,7 @@ Make your fingertips more beautiful.
 
 ## Contribution
 
-We recognize all types of contributions, this project follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct. You can [post a comment](https://github.com/isArtJay/Mouse/issues/1) with the text: `@all-contributors please add @YOUR-GITHUB-USERNAME for EmojiName` and our bot will add you.
+We recognize all types of contributions, this project follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct. If you have contributed to the project in some way and aren't listed, You can also [post a comment](https://github.com/isArtJay/Mouse/issues/1) with the text: `@all-contributors please add @YOUR-GITHUB-USERNAME for EmojiName` and our bot will add you.
 
 Thank you to all the people who already contributed to Mouse!
 

@@ -1,4 +1,4 @@
-[English](https://github.com/isArtJay/Mouse) | 简体中文
+[English](https://github.com/isArtJay/Mouse#language) | 简体中文
 
 <p align="center">
 <img src="images/HoverMagic.svg" />

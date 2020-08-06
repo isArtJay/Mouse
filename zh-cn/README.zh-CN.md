@@ -23,7 +23,9 @@
 
 ## 赞助
 
-[爱发电](https://afdian.net/@yujie)
+<p>
+    <a alt="爱发电" href=""><img width="50px" src="https://raw.githubusercontent.com/isArtJay/Mouse/master/images/fadian.png"></a>
+</p>
 
 ## 贡献
 

@@ -5,9 +5,8 @@ English | [简体中文](zh-cn/README.zh-CN.md)
 <img src="images/HoverMagic.svg" />
 </p>
 <p align="center">
-  <a href="https://github.com/HoverMagic/HoverMagic/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/HoverMagic/HoverMagic"></a>
-    <a href="https://github.com/HoverMagic/HoverMagic/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/HoverMagic/HoverMagic"></a>
-    <a href="https://github.com/HoverMagic/HoverMagic/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/HoverMagic/HoverMagic"></a>
+  <a href="https://github.com/isArtJay/Mouse/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/isArtJay/Mouse?style=flat-square"></a>
+    <a href="https://github.com/isArtJay/Mouse/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/isArtJay/Mouse?style=flat-square"></a>
     <a href="https://github.com/isArtJay/Mouse/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/isArtJay/Mouse?style=flat-square"></a>
     <a href="https://github.com/isArtJay/Mouse/graphs/contributors"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/isArtJay/Mouse/master?style=flat-square"></a>
     <a href="https://github.com/isArtJay/Mouse/commits/master"><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/isArtJay/Mouse/master?style=flat-square"></a>

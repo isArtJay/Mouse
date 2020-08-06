@@ -11,25 +11,15 @@ English | [简体中文](README.zh-CN.md)
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/LICENSE-MIT-brightgreen.svg"></a>
 </p>
 
-## HoverMagic
+## Mouse
 
 Make your fingertips more beautiful.
 
-## Sponsors via Open Collective
-
-<a href="https://opencollective.com/hovermagic" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/hovermagic/tiers/sponsor.svg?avatarHeight=70"></a>
-
-## Community Guidelines
-
-HoverMagic is more than a technology; HoverMagic is driven by the community of individuals that power its development and use every day. As a community, we want to embrace the very differences that have made our collaboration so powerful, and work together to provide the best environment for learning, growing, and sharing of ideas. It is imperative that we keep HoverMagic a fun, welcoming, challenging, and fair place to play.
-
-As such, the [HoverMagic Community Guidelines](https://github.com/HoverMagic/HoverMagic/wiki/HoverMagic-Community-Guidelines) states our ideals as a community. It's meant to be a guide on how we work together and conduct ourselves, not a specific rulebook. It is a way to communicate our existing values to the entire community, and share our values with the ‘verse.
-
-## Contributors
+## Contribution
 
 We recognize all types of contributions, this project follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct. You can [post a comment](https://github.com/HoverMagic/HoverMagic/issues/1) with the text: `@all-contributors please add @YOUR-GITHUB-USERNAME for EmojiName` and our nice bot will add you.
 
-Thank you to all the people who already contributed to HoverMagic!
+Thank you to all the people who already contributed to Mouse!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

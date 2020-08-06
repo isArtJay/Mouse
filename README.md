@@ -1,4 +1,4 @@
-English | [简体中文](README.zh-CN.md)
+English | [简体中文](zh-cn/README.zh-CN.md)
 
 <p align="center">
 <img src="images/HoverMagic.svg" />

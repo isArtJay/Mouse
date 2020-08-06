@@ -13,6 +13,9 @@ English | [简体中文](zh-cn/README.zh-CN.md)
     <a href="https://gitter.im/mouse-css/mouse?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Gitter" src="https://img.shields.io/gitter/room/isArtJay/Mouse?style=flat-square"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/isArtJay/Mouse/issues?q=is%3Aopen+is%3Aissue"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/isArtJay/Mouse?style=flat-square"></a>
+</p>
 
 ## Mouse.css
 

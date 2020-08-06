@@ -24,7 +24,7 @@
 ## 赞助
 
 <p>
-    <a alt="爱发电" href=""><img width="50px" src="https://raw.githubusercontent.com/isArtJay/Mouse/master/images/fadian.png"></a>
+    <a alt="爱发电" href="https://afdian.net/@yujie"><img width="50px" src="https://raw.githubusercontent.com/isArtJay/Mouse/master/images/fadian.png"></a>
 </p>
 
 ## 贡献

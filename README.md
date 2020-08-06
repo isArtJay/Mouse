@@ -22,7 +22,9 @@ Make your fingertips more beautiful.
 
 ## Sponsors
 
-[爱发电](https://afdian.net/@yujie)
+<p>
+    <a alt="爱发电" href="https://afdian.net/@yujie"><img width="50px" src="https://raw.githubusercontent.com/isArtJay/Mouse/master/images/fadian.png"></a>
+</p>
 
 ## Contribution
 

@@ -37,7 +37,7 @@ Thank you to all the people who already contributed to Mouse!
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/HoverMagic/HoverMagic.svg)](https://starchart.cc/HoverMagic/HoverMagic)
+[![Stargazers over time](https://starchart.cc/isArtJay/Mouse.svg)](https://github.com/isArtJay/Mouse/stargazers)
 
 ## LICENSE
 

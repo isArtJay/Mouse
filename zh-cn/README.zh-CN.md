@@ -1,4 +1,4 @@
-<p id="https://github.com/isArtJay/Mouse#index" align="left"><a href="https://github.com/isArtJay/Mouse/blob/master/zh-cn/README.zh-CN.md">English</a> | 简体中文</p>
+<p align="left"><a href="https://github.com/isArtJay/Mouse#index">English</a> | 简体中文</p>
 
 <p align="center">
 <img src="images/HoverMagic.svg" />

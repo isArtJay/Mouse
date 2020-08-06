@@ -1,0 +1,40 @@
+[English](README.md) | 简体中文
+
+<p align="center">
+<img src="images/HoverMagic.svg" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/HoverMagic/HoverMagic/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/HoverMagic/HoverMagic"></a>
+    <a href="https://github.com/HoverMagic/HoverMagic/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/HoverMagic/HoverMagic"></a>
+    <a href="https://github.com/HoverMagic/HoverMagic/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/HoverMagic/HoverMagic"></a>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/LICENSE-MIT-brightgreen.svg"></a>
+</p>
+
+## HoverMagic
+
+让你的指尖更美妙！
+
+## 赞助我们
+
+<a href="https://opencollective.com/hovermagic" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/hovermagic/tiers/sponsor.svg?avatarHeight=70"></a>
+
+## 社区指南
+
+HoverMagic 是由社区驱动的，所以，我们需要有一个这样的社区：和谐、互助、学习、分享，我们也将一直保持这里是一个有趣、受欢迎、充满挑战性和公平的地方。
+
+因此，这份 [指南](https://github.com/HoverMagic/HoverMagic/wiki/HoverMagic-%E7%A4%BE%E5%8C%BA%E6%8C%87%E5%8D%97) 阐述了社区的理想。它的目的是指导我们如何一起工作和学习，而不是一个很死板的规则书，它是向整个社区和世界传达我们的价值观的一种方式。
+
+## 贡献
+
+我们认可所有类型的贡献！本项目遵循[《贡献者公约》](http://contributor-covenant.org/version/1/3/0/)。如果你已经为本项目做出了某种贡献，但还没有被展示出来，你可以 [在这里发表一个评论](https://github.com/HoverMagic/HoverMagic/issues/1) 并附上文字：`@all-contributors please add @YOUR-GITHUB-USERNAME for EmojiName` ，我们的机器人会自动把你添加上去。
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/HoverMagic/HoverMagic.svg)](https://starchart.cc/HoverMagic/HoverMagic)
+
+## LICENSE
+
+[MIT](https://opensource.org/licenses/MIT)
+
+Copyright (c) 2020-present, YJ Bian

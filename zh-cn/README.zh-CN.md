@@ -21,6 +21,10 @@
 
 让你的指尖更美妙！
 
+## 赞助
+
+[爱发电](https://afdian.net/@yujie)
+
 ## 贡献
 
 我们认可所有类型的贡献！本项目遵循[《贡献者公约》](http://contributor-covenant.org/version/1/3/0/)。如果你已经为本项目做出了某种贡献，但还没有被展示出来，你可以 [在这里发表一个评论](https://github.com/isArtJay/Mouse/issues/1) 并附上文字：`@all-contributors please add @YOUR-GITHUB-USERNAME for EmojiName` ，我们的机器人会自动把你添加上去。

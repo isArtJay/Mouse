@@ -11,7 +11,7 @@ English | [简体中文](README.zh-CN.md)
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/LICENSE-MIT-brightgreen.svg"></a>
 </p>
 
-## Mouse
+## Mouse.css
 
 Make your fingertips more beautiful.
 

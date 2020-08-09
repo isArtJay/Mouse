@@ -2,7 +2,7 @@
 <p  align="left">English | <a href="https://github.com/isArtJay/Mouse/blob/master/zh-cn/README.zh-CN.md#index-cn">简体中文</a></p>
 
 <p align="center">
-<img src="images/HoverMagic.svg" />
+<img src="images/Mouse.svg" />
 </p>
 <p align="center">
   <a href="https://github.com/isArtJay/Mouse/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/isArtJay/Mouse?style=flat-square"></a>
@@ -15,6 +15,7 @@
     <a href="https://github.com/isArtJay/Mouse/issues?q=is%3Aopen+is%3Aissue"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/isArtJay/Mouse?style=flat-square"></a>
     <a href="https://github.com/isArtJay/Mouse/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/isArtJay/Mouse?style=flat-square"></a>
 </p>
+
 
 <h2 align="center">Mouse.css</h2>
 

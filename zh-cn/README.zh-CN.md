@@ -5,18 +5,19 @@
 <img src="../images/Mouse.svg" />
 </p>
 
-
 <p align="center">
   <a href="https://github.com/isArtJay/Mouse/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/isArtJay/Mouse?style=flat-square"></a>
     <a href="https://github.com/isArtJay/Mouse/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/isArtJay/Mouse?style=flat-square"></a>
     <a href="https://github.com/isArtJay/Mouse/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/isArtJay/Mouse?style=flat-square"></a>
     <a href="https://github.com/isArtJay/Mouse/graphs/contributors"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/isArtJay/Mouse/master?style=flat-square"></a>
     <a href="https://github.com/isArtJay/Mouse/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/isArtJay/Mouse?style=flat-square"></a>
-    <a href="https://gitter.im/mouse-css/mouse?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Gitter" src="https://img.shields.io/gitter/room/isArtJay/Mouse?style=flat-square"></a>
-    <br>
     <a href="https://github.com/isArtJay/Mouse/issues?q=is%3Aopen+is%3Aissue"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/isArtJay/Mouse?style=flat-square"></a>
     <a href="https://github.com/isArtJay/Mouse/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/isArtJay/Mouse?style=flat-square"></a>
+    <br>
+    <a href="https://gitter.im/mouse-css/mouse?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Gitter" src="https://img.shields.io/gitter/room/isArtJay/Mouse?style=flat-square"></a>
+    <a href="https://t.me/mouse_chat"><img alt="Telegram" src="https://img.shields.io/badge/chat-on%20telegram-blue?style=flat-square"></a>
 </p>
+
 
 <h2 align="center">Mouse.css</h2>
 

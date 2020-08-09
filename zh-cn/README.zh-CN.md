@@ -2,8 +2,9 @@
 <p align="left"><a href="https://github.com/isArtJay/Mouse#index-en">English</a> | 简体中文</p>
 
 <p align="center">
-<img src="../images/HoverMagic.svg" />
+<img src="../images/Mouse.svg" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/isArtJay/Mouse/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/isArtJay/Mouse?style=flat-square"></a>

@@ -21,7 +21,7 @@
 
 <h2 align="center">Mouse.css</h2>
 
-让你的指尖更美妙！
+Mouse.css 是一个小巧、轻便的 CSS hover 库，你能快速的安装并应用到你的网页应用中。
 
 ## 赞助
 

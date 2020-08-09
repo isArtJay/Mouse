@@ -20,7 +20,7 @@
 
 <h2 align="center">Mouse.css</h2>
 
-Make your fingertips more beautiful.
+Mouse.css is a small and lightweight CSS hover library, you can quickly install and apply to your web application.
 
 ## Sponsors
 
